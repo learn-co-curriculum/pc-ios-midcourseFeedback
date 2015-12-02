@@ -9,3 +9,5 @@ Much appreciation!
 
 ![dog](http://www.explosion.com/wp-content/uploads/2014/07/5.jpg)
 
+
+<a href='https://learn.co/lessons/pc-ios-midcourseFeedback' data-visibility='hidden'>View this lesson on Learn.co</a>
