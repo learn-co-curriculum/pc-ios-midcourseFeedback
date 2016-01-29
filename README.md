@@ -10,4 +10,4 @@ Much appreciation!
 ![dog](http://www.explosion.com/wp-content/uploads/2014/07/5.jpg)
 
 
-<a href='https://learn.co/lessons/pc-ios-midcourseFeedback' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/pc-ios-midcourseFeedback' title='Mid Course Feedback'>Mid Course Feedback</a> on Learn.co and start learning to code for free.</p>
